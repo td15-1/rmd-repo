@@ -1,0 +1,10 @@
+---
+title: "play with rmd"
+output: html_document
+date: "2024-12-03"
+---
+
+```{r}
+download.file(url="https://raw.githubusercontent.com/cambiotraining/reproducibility-training/master/data/gapminder_data.csv", destfile="data/gapminder_data.csv")
+```
+

@@ -1,0 +1,10 @@
+name: "R markdown"
+navbar:
+  title: "R markdown"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: introduction
+      href: introduction.html
